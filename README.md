@@ -39,4 +39,11 @@ To accomplish this, I utilized the INDEX and MATCH functions to retrieve values 
 
 
 #### Task Three
+Create a dynamic financial model for a company (different from Task 2) of your choice that forecasts out
+the Gross Profit, Operating Profit, or EBIT for two more years using three scenarios.
+
+In financial modeling, scenario analysis is employed to evaluate and predict potential future outcomes for a specific company based on its historical data. This analysis typically includes best-case, worst-case, and base-case scenarios. Below is the forecasting model for the ADS company, presenting Gross Profit, Operating Profit/EBIT for the next two years using these three scenarios, as illustrated in the image below:
+
+![image](https://github.com/Aroglobal1/NYSE-Data-Analysis/assets/148555924/2fa31b19-b0c1-4266-b102-4348e41e40d6)
+
 
