@@ -7,7 +7,7 @@ Here are the objectives of this project:
 - to create a Financial Forecasting Model using three scenarios.
 
 ### Data Source
-The data used for this analysis is the "projectdata-nyse.csv" file, gotten from Udacity site for the educational purpose. This data contains financial information of NYSE for a period of 4 years. 
+The data used for this analysis is sourced from the 'projectdata-nyse.csv' file obtained from Udacity for educational purposes. This dataset encompasses financial information from the NYSE over a 4-year period.
 
 ### Tools
 - Excel
