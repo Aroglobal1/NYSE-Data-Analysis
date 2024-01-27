@@ -35,7 +35,12 @@ Below are the summary statistics and the slide presentation with insights
 Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list.
 
 
-To accomplish this, I utilized the INDEX and MATCH functions to retrieve values associated with each company. Additionally, the data validation tool was employed to create a drop-down list of companies. This list, in turn, pulls historical fundamentals data to generate the Profit and Loss (P&L) Statement. When a company is selected from the dropdown, its historical data is displayed, showcasing Gross Profit, Operating Profit, or EBIT values for all the years covered in the dataset with historical information for that specific company. Here is the image of the P & L Statement:
+To accomplish this, I utilized the INDEX and MATCH functions to retrieve values associated with each company. Additionally, the data validation tool was employed to create a drop-down list of companies. This list, in turn, pulls historical fundamentals data to generate the Profit and Loss (P&L) Statement. When a company is selected from the dropdown, its historical data is displayed, showcasing Gross Profit, Operating Profit, or EBIT values for all the years covered in the dataset with historical information for that specific company. Here is a video of how the P & L Statement looks like:
+
+
+https://github.com/Aroglobal1/NYSE-Data-Analysis/assets/148555924/1665bc1e-6bd7-4b76-ba4c-77188be260c7
+
+
 
 
 #### Task Three
